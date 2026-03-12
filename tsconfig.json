@@ -39,7 +39,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "src/components/WorkCard.jsx"  ],
+, "src/components/WorkCard.tsx"  ],
   "exclude": [
     "node_modules"
   ]
